@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f0c10748590587352d63f3791729566",
+    "revision": "0fb4a481ee87d8577a984ee67f038381",
     "url": "/hack-for-fun/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hack-for-fun/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "3246f6be288e10a88d74",
+    "revision": "0b827981b400ab90e9ac",
     "url": "/hack-for-fun/static/css/main.4f770622.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hack-for-fun/static/js/2.f18b0379.chunk.js"
   },
   {
-    "revision": "3246f6be288e10a88d74",
-    "url": "/hack-for-fun/static/js/main.609ccabc.chunk.js"
+    "revision": "0b827981b400ab90e9ac",
+    "url": "/hack-for-fun/static/js/main.24131896.chunk.js"
   },
   {
     "revision": "2b2d852610c1dafaea01",
