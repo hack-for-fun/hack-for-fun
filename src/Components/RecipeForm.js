@@ -29,23 +29,23 @@ export default class RecipeForm extends React.Component {
 
  renderList = () => {
    return (
-     <ul>
-
+     <div className="recipe-container">
+     <ul className="list">
        {this.state.items.map((word, index) =>
-         <li key={index}>{word} - <Button onClick= {() => {     this.removeFromList(word) }} > X </Button></li> ) }
+         <li className="recipe-items" key={index}>{word} - <Button className="delete" onClick= {() => {this.removeFromList(word) }} > X </Button></li> ) }
      </ul>
-   )
+     </div>
+   );
  }
-
 
  render() {
   return (
-        <div>
-            <Form style={{ width: '20rem' }}>
+        <div className="form-wrapper">
+            <Form>
                 <Form.Group controlId="formIngredients">
-                    <Form.Label > Ingredients </Form.Label>
-                    <Form.Control type="Text" placeholder="Enter Ingredient" value={this.state.word} onChange={this.onChange} />
-                    <Button  onClick={this.addToList}> Add Ingredient </Button>
+                    <Form.Label className="form-header"> Tell us what you have in your pantry </Form.Label>
+                    <Form.Control className="input-bar" type="Text" placeholder="Enter Ingredient" value={this.state.word} onChange={this.onChange} />
+                    <Button className="form-button" onClick={this.addToList}> Add Ingredient </Button>
                 </Form.Group>
             </Form>
             {this.renderList()}

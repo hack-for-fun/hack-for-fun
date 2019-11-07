@@ -66,8 +66,8 @@ const PantryApp = props => {
             <h1 className="header">Welcome to the Pantry!</h1>
             {recipes && <RecipeList recipes={recipes} />}
             <RecipeForm setIngredients={setIngredients}/>
-            <button type="button" onClick={getRecords}>
-                Get recipes
+            <button className="button" type="button" onClick={getRecords}>
+                Get Recipes
             </button>
             {/* IngredientsForm */}
 
