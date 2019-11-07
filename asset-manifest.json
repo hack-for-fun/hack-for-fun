@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hack-for-fun/hack-for-fun.git/static/css/main.34de6062.chunk.css",
+    "main.js": "/hack-for-fun/hack-for-fun.git/static/js/main.4a4eb1f2.chunk.js",
+    "main.js.map": "/hack-for-fun/hack-for-fun.git/static/js/main.4a4eb1f2.chunk.js.map",
+    "runtime-main.js": "/hack-for-fun/hack-for-fun.git/static/js/runtime-main.6d6c2e25.js",
+    "runtime-main.js.map": "/hack-for-fun/hack-for-fun.git/static/js/runtime-main.6d6c2e25.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/hack-for-fun/hack-for-fun.git/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4142eed4.chunk.js": "/hack-for-fun/hack-for-fun.git/static/js/2.4142eed4.chunk.js",
+    "static/js/2.4142eed4.chunk.js.map": "/hack-for-fun/hack-for-fun.git/static/js/2.4142eed4.chunk.js.map",
+    "index.html": "/hack-for-fun/hack-for-fun.git/index.html",
+    "precache-manifest.81f8564124cee73e25ecaaf35dd7544d.js": "/hack-for-fun/hack-for-fun.git/precache-manifest.81f8564124cee73e25ecaaf35dd7544d.js",
+    "service-worker.js": "/hack-for-fun/hack-for-fun.git/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/hack-for-fun/hack-for-fun.git/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/hack-for-fun/hack-for-fun.git/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6c2e25.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4142eed4.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.4a4eb1f2.chunk.js"
+  ]
+}
