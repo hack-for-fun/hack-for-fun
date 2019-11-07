@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "235f18018bccb4ecb4cc6e726de13f85",
+    "revision": "f707c80c0a74396b5ff2f3e8d64ca913",
     "url": "/hack-for-fun/index.html"
   },
   {
-    "revision": "62864c9b3ee9716e35aa",
+    "revision": "cc39965bdca8f00cfa1b",
     "url": "/hack-for-fun/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "a96c718094719e213b48",
+    "revision": "ad5013b984a4e5f90af9",
     "url": "/hack-for-fun/static/css/main.4f770622.chunk.css"
   },
   {
-    "revision": "62864c9b3ee9716e35aa",
-    "url": "/hack-for-fun/static/js/2.f18b0379.chunk.js"
+    "revision": "cc39965bdca8f00cfa1b",
+    "url": "/hack-for-fun/static/js/2.9b448e96.chunk.js"
   },
   {
-    "revision": "a96c718094719e213b48",
-    "url": "/hack-for-fun/static/js/main.4e1e9e0a.chunk.js"
+    "revision": "ad5013b984a4e5f90af9",
+    "url": "/hack-for-fun/static/js/main.ee1dde98.chunk.js"
   },
   {
     "revision": "2b2d852610c1dafaea01",
